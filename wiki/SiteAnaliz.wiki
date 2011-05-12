@@ -1,1 +1,8 @@
 *Düşünceler:*
+
+  * Sayfa tasarımı değiştirilecek.
+  * Her bir desen anlatım sayfasına yorum eklenebilecek.
+  * Her bir desenin anlatım içeriği genişletilecek.
+  * Gerekirse örnek sayısı arttırılacak.
+  * Yorumlar çok olursa sayfalandırmaya gidilecek.
+  * Kullanıcı girişlerindeki captcha sorunu giderilecek.
