@@ -11,3 +11,37 @@
   * http://www.java.net/
   * http://www.theserverside.com/
   * http://java.sys-con.com/
+
+
+----------------
+
+
+reCAPTCHA Logo
+HOME
+WHAT IS reCAPTCHA
+GET reCAPTCHA
+MY ACCOUNT
+MY SITES
+EMAIL PROTECTION
+RESOURCES
+	
+tasarimdesenleri.com
+Domain Name: 	tasarimdesenleri.com
+
+This is a global key. It will work across all domains.
+Public Key: 	6Le6TsQSAAAAANp8b-1elO7_z8qe3hJpyIzfpwXw
+
+Use this in the JavaScript code that is served to your users
+Private Key: 	6Le6TsQSAAAAALpuzEMd8r5xgzOLn4JobAadiahf
+
+Use this when communicating between your server and our server. Be sure to keep it a secret.
+	Delete these keys
+Resources: 	
+
+    reCAPTCHA plugins and libraries
+    reCAPTCHA API Documentation
+
+Now what? If you just signed up for a set of keys, you now need to install reCAPTCHA on your site. This is done in two parts. First, you need to add some HTML that displays the reCAPTCHA widget. Second, you need to configure your form to contact our servers to verify reCAPTCHA solutions. Here are specific instructions for: PHP, WordPress, and MediaWiki. For other environments, visit our resources page.
+
+Blog | About Us | Contact | FAQ | Terms | Privacy
+© 2011 Google, all rights reserved.
