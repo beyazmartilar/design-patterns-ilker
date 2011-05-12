@@ -7,4 +7,4 @@
 
   * http://www.infoq.com/
   * http://www.infoworld.com/
-  * 
+  * http://java.dzone.com/
