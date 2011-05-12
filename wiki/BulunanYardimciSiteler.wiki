@@ -1,0 +1,4 @@
+*Captcha Hakkında Bulunanlar:*
+
+  * http://www.rominirani.com/2010/02/22/episode-15-using-a-captcha-in-your-google-app-engine-application/
+  * http://daily.profeth.de/2008/04/using-recaptcha-with-google-app-engine.html
