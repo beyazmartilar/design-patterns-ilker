@@ -13,6 +13,9 @@
   * http://www.theserverside.com/
   * http://java.sys-con.com/
 
+*Tasarım Desenleri Siteleri:*
+
+  * http://www.oodesign.com/
 
 ----------------
 
