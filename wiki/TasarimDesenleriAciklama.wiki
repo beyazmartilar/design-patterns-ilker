@@ -7,3 +7,6 @@ Tasarım desenleri, daha önce sınanmış, ispatlanmış ve yararı görülmü�
 *Sınıflandırma:*
 
 Tasarım desenleri, kurucu, yapısal ve davranışsal olmak üzere 3 ayrı grupta toplanırlar.
+
+*Yaratıcı:*
+Bu tasarım deseni ile sistemdeki sınıfların yaratılma, bellekte nesnelerin oluşturulma sorumluluğu sistemin belirli bölgesine verilir. Burası nesne yaratırken sistemde gereken bazı kuralları da uygulayabilir. Böylece hangi nesne, nasıl, hangi tipte, ne zaman yaratılacak gibi konularda esneklik sağlanır. Nesnelerin yaratılma sorumluluğu, sistemin mantığından ayrılır.
