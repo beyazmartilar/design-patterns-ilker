@@ -3,3 +3,7 @@ Tasarım desenleri, yazılım tasarımında sürekli karşılaşılan genel soru
 Nesneye dayalı programlamada sınıfların kendi içinde tutarlı, fakat diğer sınıflara en az bağımlı olmaları beklenir. Yazılım parçalarının tekrar kolayca kullanılabilir olmaları, kolayca genişleyebilir veya sistemden kolayca çıkarılabilir olmaları yani kısaca esnek olmaları beklenir. Yeni ihtiyaçların, yazılımın diğer kısımlarını en az biçimde etkileyerek yazılıma kolayca dahil olmaları beklenir. İşte tasarım desenleri, nesneye dayalı programlamanın bu prensiplerini doğru bir şekilde uygulamamızı sağlar. 
 
 Tasarım desenleri, daha önce sınanmış, ispatlanmış ve yararı görülmüş yazılım yöntemleri önerdiği için geliştirme sürecini hızlandırır. Yeniden kullanılabilir, esnek çözümler yazılımın büyümesini, genişlemesini kolaylaştırır. Desenleri bilen, bunlara aşina olmuş yazılımcı ve yazılım mimarları için kod okunabilirliği yüksek olur. Bu kişiler arasında ortak bir dil yaratmayı sağlayarak, iletişimi kolaylaştırır. Sonuç olarak tasarım desenlerini uygulayarak, etkin kodlar üretiriz, yazılımın kalitesini arttırırız. Zamandan ve yazılım için harcanan iş gücünden de tasarruf etmiş oluruz.
+
+*Sınıflandırma:*
+
+Tasarım desenleri, kurucu, yapısal ve davranışsal olmak üzere 3 ayrı grupta toplanırlar.
