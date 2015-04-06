@@ -1,0 +1,1 @@
+Tasarım desenlerinin Türkçe anlatıldığı bir site bulunmamaktadır. Bu projede bu amaçlanmaktadır.
